@@ -1,0 +1,1 @@
+The output picture will be placed here.
