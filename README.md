@@ -8,6 +8,7 @@ This is a test code of traffic lights detected under the Chinese street scene.
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
+- [Visualization](#visualization)
 
 ## Background
 
@@ -29,6 +30,10 @@ This is a test code of traffic lights detected under the Chinese street scene.
 
 ## Usage
 
-### Download the [weights here](链接：https://pan.baidu.com/s/1q42_TIgU4MtVJzDy4T586w?pwd=17nn 提取码：17nn) first, and paste them under the weights folder.
+### Download the [weights](https://pan.baidu.com/s/1q42_TIgU4MtVJzDy4T586w?pwd=17nn) first, and paste them under the /weights folder.
+### Downloda the [Chinese font](https://pan.baidu.com/s/121Oa_YPfrVmef2AJT36izQ?pwd=c8v5), and paste it under the Traffic-light-detection folder.
 
 `python detect.py`
+
+## Visualization
+![](output/vis.png)
